@@ -18,4 +18,4 @@ Implementing Neural Style Transfer (NST)
 - tensorflow 
 
 ## Used data set 
-we used a pretrained model  [pretrained-model/imagenet-vgg-verydeep-19.mat](Link to it in repo)
+we used a pretrained model  [pretrained-model/imagenet-vgg-verydeep-19.mat](https://github.com/Magho/Art-generation-with-Neural-Style-Transfer/tree/master/pretrained-model)
